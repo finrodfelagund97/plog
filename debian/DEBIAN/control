@@ -1,0 +1,6 @@
+Package: libplog-dev
+Version: 1.1.10
+Maintainer: Finrod Felagund
+Architecture: amd64
+Description: Portable, simple and extensible C++ logging library
+
